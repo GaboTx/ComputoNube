@@ -3,7 +3,7 @@ Este es el repositorio donde se alojan los trabajos relacionados a la materia de
 
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hola 👋! Soy Gabriel Sareñana - A01795507</h2>
 
 ###
 
